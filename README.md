@@ -39,3 +39,13 @@ Step 5: The app will run on port 5000.
 ```
 localhost:5000
 ```
+
+---
+# Amazon Review Classification via ROBERTA
+ - In this i have used already avaliable pre-trained model from Hugging-Face (Transformers), to do sentiment analysis
+
+---
+# Amazon Review Classification via VADER
+ - In this i have used VADER from NLTK to do sentiment analysis (SentimentIntensityAnalyzer)
+
+
